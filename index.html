@@ -475,14 +475,17 @@ async function getProperties() {
   try {
     const response = await fetch('imoveis.json', { cache: 'no-store' });
     if (response.ok) {
-      return await response.json();
+      return normalizeData(await response.json());
     }
   } catch(e) {}
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) return JSON.parse(raw);
+    if (raw) return normalizeData(JSON.parse(raw));
   } catch(e) {}
   return DEFAULT_DATA;
+}
+function normalizeData(data) {
+  return Array.isArray(data) ? data : (data && Array.isArray(data.imoveis) ? data.imoveis : DEFAULT_DATA);
 }
 
 let properties = [];

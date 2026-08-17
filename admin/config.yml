@@ -1,0 +1,53 @@
+backend:
+  name: github
+  repo: jannario/halanagadelha
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "catalogo"
+    label: "Catálogo"
+    files:
+      - name: "imoveis"
+        label: "Imóveis"
+        file: "imoveis.json"
+        fields:
+          - label: "Imóveis"
+            name: "imoveis"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "ID", name: "id", widget: "number", value_type: "int", required: false }
+              - { label: "Nome do imóvel", name: "name", widget: "string" }
+              - { label: "Preço", name: "price", widget: "string" }
+              - { label: "Endereço", name: "address", widget: "string", required: false }
+              - label: "Tipo"
+                name: "type"
+                widget: "select"
+                options:
+                  - { label: "Apartamento", value: "apartamento" }
+                  - { label: "Cobertura", value: "cobertura" }
+                  - { label: "Outro", value: "outro" }
+              - { label: "Etiqueta no card", name: "tag", widget: "string", required: false }
+              - { label: "Andar / posição", name: "floor", widget: "string", required: false }
+              - { label: "Área", name: "area", widget: "string", required: false }
+              - { label: "Quartos", name: "rooms", widget: "string", required: false }
+              - { label: "Banheiros", name: "baths", widget: "string", required: false }
+              - { label: "Vagas de garagem", name: "parking", widget: "string", required: false }
+              - { label: "Vendido", name: "sold", widget: "boolean", default: false, required: false }
+              - { label: "Descrição", name: "desc", widget: "text", required: false }
+              - label: "Diferenciais"
+                name: "features"
+                widget: "list"
+                required: false
+                field: { label: "Diferencial", name: "feature", widget: "string" }
+              - label: "Fotos"
+                name: "media"
+                widget: "list"
+                required: false
+                summary: "{{fields.src}}"
+                fields:
+                  - { label: "Tipo", name: "type", widget: "hidden", default: "image" }
+                  - { label: "Foto", name: "src", widget: "image" }
