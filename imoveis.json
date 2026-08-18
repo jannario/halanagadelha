@@ -1,65 +1,7 @@
 {
   "imoveis": [
     {
-      "id": 3,
-      "name": "Duplex (mezanino) Max Carneiros Suítes",
-      "price": "R$ 650.000",
-      "address": "Max Carneiros Suítes",
-      "type": "apartamento",
-      "tag": "Apartamento Duplex",
-      "floor": "8º andar",
-      "area": "44,48m²",
-      "rooms": "1 Quarto",
-      "baths": "2 banheiros",
-      "parking": "1 vagas",
-      "sold": false,
-      "desc": "Apartamento duplex (mezanino) mobiliado de 44,48m², com localização privilegiada no condomínio (mesmo corredor e no mesmo bloco do rooftop com vista para a piscina).\nCondomínio com padrão de resort, localização privilegiada a 400 m do mar, e próximo ao parque aquático, Beijupirá, Bora Bora e Reveillon Carneiros.",
-      "features": [
-        "Piscinas",
-        "Rooftop",
-        "Espaço fitness",
-        "Campinho",
-        "Brinquedoteca",
-        "Playground",
-        "Hidro com Gazebos",
-        "Sport Bar",
-        "Spa Relax",
-        "Restaurante",
-        "Salão de festas",
-        "Living",
-        "Café",
-        "Lavanderia"
-      ],
-      "media": [
-        {
-          "type": "image",
-          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-01.jpg"
-        },
-        {
-          "type": "image",
-          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-02.jpg"
-        },
-        {
-          "type": "image",
-          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-03.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1786894323160,
-      "name": "ED. MARIA LIGIA ANTONIO FALCÃO (Queiroz Galvão)",
-      "price": "R$ 900.000,00",
-      "address": "RUA ANTÔNIO FALÇÃO, 979",
-      "type": "apartamento",
-      "tag": "Apartamento",
-      "floor": "",
-      "area": "89m²",
-      "rooms": "2 Quartos",
       "baths": "2 Banheiros",
-      "parking": "2 Vagas",
-      "sold": false,
-      "desc": "Apresentamos uma excelente oportunidade de adquirir seu novo lar em um dos bairros mais desejados de Recife. Este apartamento no Edf. Maria Ligia, com 89m² de área privativa, oferece conforto e praticidade, ideal para você e sua família desfrutarem do melhor de Boa Viagem. O apartamento reformado, dispõe de 02 quartos bem iluminados e arejados, proporcionando um ambiente acolhedor e tranquilo para todos os moradores.  Além disso, o apartamento conta com uma área de serviço prática e uma dependência de empregada, garantindo conveniência no seu dia a dia. O Edf. Maria Ligia está localizado em Boa Viagem, uma área estratégica com fácil acesso a uma ampla variedade de serviços e comércios, como restaurantes, escolas, shopping centers, supermercados e transporte público. A localização privilegiada oferece a conveniência de estar próximo a tudo o que você precisa para o seu cotidiano. Não perca esta oportunidade única de adquirir um apartamento que combina conforto, modernidade e uma localização privilegiada.",
-      "features": [],
       "media": [
         {
           "type": "image",
@@ -101,31 +43,23 @@
           "type": "image",
           "src": "/assets/uploads/ed-maria-ligia-antonio-falcao-queiroz-galvao-10.jpg"
         }
-      ]
-    },
-    {
-      "id": 1786897376662,
-      "name": "Apartamento Ed. Miguel Torga",
-      "price": "R$ 799.900",
-      "address": "Rua Dom José Lopes,604 -  Boa Viagem",
+      ],
+      "price": "R$ 900.000,00",
+      "name": "ED. MARIA LIGIA ANTONIO FALCÃO (Queiroz Galvão)",
+      "floor": "",
+      "area": "89m²",
+      "desc": "Apresentamos uma excelente oportunidade de adquirir seu novo lar em um dos bairros mais desejados de Recife. Este apartamento no Edf. Maria Ligia, com 89m² de área privativa, oferece conforto e praticidade, ideal para você e sua família desfrutarem do melhor de Boa Viagem. O apartamento reformado, dispõe de 02 quartos bem iluminados e arejados, proporcionando um ambiente acolhedor e tranquilo para todos os moradores.  Além disso, o apartamento conta com uma área de serviço prática e uma dependência de empregada, garantindo conveniência no seu dia a dia. O Edf. Maria Ligia está localizado em Boa Viagem, uma área estratégica com fácil acesso a uma ampla variedade de serviços e comércios, como restaurantes, escolas, shopping centers, supermercados e transporte público. A localização privilegiada oferece a conveniência de estar próximo a tudo o que você precisa para o seu cotidiano. Não perca esta oportunidade única de adquirir um apartamento que combina conforto, modernidade e uma localização privilegiada.",
+      "sold": false,
+      "address": "RUA ANTÔNIO FALÇÃO, 979",
+      "rooms": "2 Quartos",
+      "parking": "2 Vagas",
       "type": "apartamento",
       "tag": "Apartamento",
-      "floor": "",
-      "area": "100m²",
-      "rooms": "3 quartos",
+      "id": 1786894323160,
+      "features": []
+    },
+    {
       "baths": "2 Banheiros",
-      "parking": "2 Vagas",
-      "sold": false,
-      "desc": "#Dados do apartamento.:\n•⁠  ⁠Frente Leste | Nascente | Ventilado\n•⁠  ⁠⁠100m\n•⁠  ⁠⁠03 quartos sendo 01 Suíte\n•⁠  ⁠⁠Sala para 02 ambientes \n•⁠  ⁠⁠Varanda\n•⁠  ⁠⁠Banheiro social\n•⁠  ⁠⁠Cozinha \n•⁠  ⁠⁠Área de serviço \n•⁠  ⁠⁠Dependência completa \n•⁠  ⁠⁠02 vagas de garagem soltas descobertas \nCondomínio.: R$ 1.100,00 (Água e gás individual)\nIPTU: R$ 3.550,00 ano",
-      "features": [
-        "Academia",
-        "Piscina",
-        "⁠⁠Salão de festa",
-        "⁠⁠Churrasqueira",
-        "⁠⁠Quadra poliesportiva",
-        "Portaria humana 24hrs",
-        "⁠Parque infantil"
-      ],
       "media": [
         {
           "type": "image",
@@ -135,6 +69,72 @@
           "type": "image",
           "src": "/assets/uploads/apartamento-ed-miguel-torga-02.jpg"
         }
+      ],
+      "price": "R$ 799.900",
+      "name": "Apartamento Ed. Miguel Torga",
+      "floor": "",
+      "area": "100m²",
+      "desc": "#Dados do apartamento.:\n•⁠  ⁠Frente Leste | Nascente | Ventilado\n•⁠  ⁠⁠100m\n•⁠  ⁠⁠03 quartos sendo 01 Suíte\n•⁠  ⁠⁠Sala para 02 ambientes \n•⁠  ⁠⁠Varanda\n•⁠  ⁠⁠Banheiro social\n•⁠  ⁠⁠Cozinha \n•⁠  ⁠⁠Área de serviço \n•⁠  ⁠⁠Dependência completa \n•⁠  ⁠⁠02 vagas de garagem soltas descobertas \nCondomínio.: R$ 1.100,00 (Água e gás individual)\nIPTU: R$ 3.550,00 ano",
+      "sold": false,
+      "address": "Rua Dom José Lopes,604 -  Boa Viagem",
+      "rooms": "3 quartos",
+      "parking": "2 Vagas",
+      "type": "apartamento",
+      "tag": "Apartamento",
+      "id": 1786897376662,
+      "features": [
+        "Academia",
+        "Piscina",
+        "⁠⁠Salão de festa",
+        "⁠⁠Churrasqueira",
+        "⁠⁠Quadra poliesportiva",
+        "Portaria humana 24hrs",
+        "⁠Parque infantil"
+      ]
+    },
+    {
+      "baths": "2 banheiros",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-01.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-02.jpg"
+        },
+        {
+          "type": "image",
+          "src": "/assets/uploads/duplex-mezanino-max-carneiros-suites-03.jpg"
+        }
+      ],
+      "price": "R$ 650.000",
+      "name": "Duplex (mezanino) Max Carneiros Suítes",
+      "floor": "8º andar",
+      "area": "44,48m²",
+      "desc": "Apartamento duplex (mezanino) mobiliado de 44,48m², com localização privilegiada no condomínio (mesmo corredor e no mesmo bloco do rooftop com vista para a piscina).\nCondomínio com padrão de resort, localização privilegiada a 400 m do mar, e próximo ao parque aquático, Beijupirá, Bora Bora e Reveillon Carneiros.",
+      "sold": false,
+      "address": "Max Carneiros Suítes",
+      "rooms": "1 Quarto",
+      "parking": "1 vagas",
+      "type": "apartamento",
+      "tag": "Apartamento Duplex",
+      "id": 3,
+      "features": [
+        "Piscinas",
+        "Rooftop",
+        "Espaço fitness",
+        "Campinho",
+        "Brinquedoteca",
+        "Playground",
+        "Hidro com Gazebos",
+        "Sport Bar",
+        "Spa Relax",
+        "Restaurante",
+        "Salão de festas",
+        "Living",
+        "Café",
+        "Lavanderia"
       ]
     }
   ]
