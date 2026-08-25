@@ -90,7 +90,7 @@
       "features": "Apartamento reformado, Boa Viagem, dependência de empregada, localização privilegiada, 89m²"
     },
     {
-      "baths": "Banheiro social + dependência completa",
+      "baths": "2",
       "media": [
         "/assets/uploads/Ed Miguel Torga21.jpeg",
         "/assets/uploads/Ed Miguel Torga1.jpeg",
@@ -159,7 +159,7 @@
       "desc": "Apartamento de 100m² no bairro de Boa Viagem, com frente Leste, posição nascente e excelente ventilação. O imóvel possui 3 quartos, sendo 1 suíte, sala para 2 ambientes, varanda, banheiro social, cozinha, área de serviço e dependência completa. Conta ainda com 2 vagas de garagem soltas e descobertas. O condomínio oferece estrutura completa para toda a família, com academia, piscina, salão de festas, churrasqueira, quadra poliesportiva, parque infantil e portaria humana 24 horas.\n\nCondomínio: R$ 1.100/mês, com água e gás individual\nIPTU: R$ 3.550/ano",
       "sold": false,
       "address": "Rua Dom José Lopes,604 -  Boa Viagem",
-      "rooms": "3 quartos, sendo 1 suíte",
+      "rooms": "3",
       "videos": [],
       "parking": "2 vagas soltas descobertas",
       "type": "apartamento",
@@ -168,7 +168,7 @@
       "features": "Nascente, ventilado, 3 quartos, 1 suíte, varanda, 2 vagas soltas, academia, piscina, churrasqueira, quadra poliesportiva, parque infantil, portaria 24h"
     },
     {
-      "baths": "Banheiro social + banheiro de serviço",
+      "baths": "2",
       "media": [
         "/assets/uploads/Casa 7223.jpeg",
         "/assets/uploads/Casa 721.jpeg",
@@ -194,7 +194,7 @@
         "/assets/uploads/Casa 7221.jpeg",
         "/assets/uploads/Casa 7222.jpeg"
       ],
-      "price": "A definir",
+      "price": "R$ 578.990,00",
       "name": "Casa no Ipsep",
       "floor": "Térrea/ Nascente",
       "area": "170m² construídos | terreno de 200m²",
@@ -210,7 +210,7 @@
       "features": "Casa toda lajeada, nascente, terreno 200m², aproximadamente 170m² construídos, 3 quartos, 3 vagas cobertas, 3 cisternas, 3 mil litros de capacidade, portão eletrônico, próximo à Praia de Boa Viagem"
     },
     {
-      "baths": "Banheiro social",
+      "baths": "2",
       "media": [
         "/assets/uploads/Ed Costa Blanca19.jpeg",
         "/assets/uploads/Ed Costa Blanca1.jpeg",
@@ -239,7 +239,7 @@
       "desc": "Apartamento de 70m² localizado em Boa Viagem, no Edf. Costa Blanca. O imóvel possui 2 quartos, sendo 1 suíte, além de 1 quarto reversível, sala para 3 ambientes, varanda integrada à sala, banheiro social, cozinha e área de serviço. Conta com 1 vaga de garagem. O empreendimento oferece piscina, churrasqueira, salão de festas, playground, gerador, jardim, circuito de TV, portaria 24 horas e portão eletrônico.\n\nCondomínio: R$ 918/mês\nIPTU: R$ 2.480/ano",
       "sold": false,
       "address": "Rua Prof. Augusto Lins e Silva, 761 - Boa Viagem",
-      "rooms": "2 quartos, sendo 1 suíte + 1 reversível",
+      "rooms": "2",
       "videos": [],
       "parking": "1 vaga",
       "type": "apartamento",
@@ -248,7 +248,7 @@
       "features": "70m², 2 quartos, 1 suíte, quarto reversível, sala para 3 ambientes, varanda integrada, piscina, churrasqueira, playground, gerador, jardim, portaria 24h"
     },
     {
-      "baths": "Banheiro social + dependência completa",
+      "baths": "2",
       "media": [
         "/assets/uploads/Ed Costa Ibérica1.jpg",
         "/assets/uploads/Ed Costa Ibérica2.jpg",
@@ -304,7 +304,7 @@
       "desc": "Apartamento de 93m² em Setúbal, com posição Leste/Sul, nascente e excelente ventilação. O imóvel possui 3 quartos, sendo 1 suíte, sala para 2 ambientes, varanda, banheiro social, cozinha, área de serviço e dependência completa. Conta ainda com 2 vagas de garagem cobertas. O condomínio dispõe de 2 elevadores, salão de festas, churrasqueira, piscina, playground, portaria 24 horas e portão eletrônico. Uma excelente oportunidade tanto para moradia quanto para investimento.\n\nCondomínio: R$ 1.350/mês\nIPTU: R$ 3.600/ano",
       "sold": false,
       "address": "Ed. Costa Ibérica - Setúbal",
-      "rooms": "3 quartos, sendo 1 suíte",
+      "rooms": "3",
       "videos": [],
       "parking": "2 vagas cobertas",
       "type": "apartamento",
@@ -313,7 +313,7 @@
       "features": "Nascente, posição Leste/Sul, ventilado, 93m², 3 quartos, 1 suíte, varanda, dependência completa, 2 vagas cobertas, piscina, churrasqueira, playground, 2 elevadores, portaria 24h"
     },
     {
-      "baths": "Banheiro social + banheiro de serviço",
+      "baths": "2",
       "media": [
         "/assets/uploads/Ed Porte de Oleans4.jpeg",
         "/assets/uploads/Ed Porte de Oleans2.jpeg",
@@ -354,7 +354,7 @@
       "desc": "Apartamento de 72m² no bairro do Espinheiro, com excelente ventilação cruzada. O imóvel possui 3 quartos, sendo 1 suíte, sala para 2 ambientes, banheiro social, cozinha, área de serviço e banheiro de serviço. Conta ainda com 1 vaga de garagem coberta. O empreendimento dispõe de piscina, salão de festas, parquinho, quadra, portaria humana 24 horas, portão eletrônico e gerador.\n\nCondomínio: R$ 844/mês\nIPTU: Não informado",
       "sold": false,
       "address": "Rua Alfredo de Medeiros, 130 - Espinheiro",
-      "rooms": "3 quartos, sendo 1 suíte",
+      "rooms": "3",
       "videos": [],
       "parking": "1 vaga coberta",
       "type": "apartamento",
@@ -363,7 +363,7 @@
       "features": "Ventilação cruzada, 3 quartos, 1 suíte, 1 vaga coberta, piscina, quadra, salão de festas, gerador, portaria 24h"
     },
     {
-      "baths": "1 banheiro social",
+      "baths": "2",
       "media": [
         "/assets/uploads/Ed Rosa Campos9.jpeg",
         "/assets/uploads/Ed Rosa Campos1.jpeg",
@@ -427,7 +427,7 @@
       "desc": "Apartamento de 96m² localizado em Boa Viagem, na região de Setúbal. O imóvel conta com 3 quartos, sendo 1 suíte, sala para 2 ambientes, varanda integrada à sala, banheiro social, cozinha e área de serviço. Possui 2 vagas de garagem cobertas e separadas, além de aquecimento a gás. O empreendimento oferece uma completa estrutura de lazer e segurança, com piscina, salão de festas, quadra, playground, minicampo, academia, sauna, sala de massagem e portaria 24 horas.\n\nCondomínio: R$ 900/mês, com gás\nIPTU: R$ 3.000/ano",
       "sold": false,
       "address": "Ed. Rosa de Campos, Setúbal",
-      "rooms": "3 quartos, sendo 1 suíte",
+      "rooms": "3",
       "videos": [],
       "parking": "2 vagas cobertas e separadas",
       "type": "apartamento",
